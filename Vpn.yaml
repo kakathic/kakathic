@@ -1,1 +1,84 @@
-Test
+mixed-port: 8888
+allow-lan: true
+mode: rule
+log-level: silent
+ipv6: false
+udp: true
+secret: 
+external-controller: 0.0.0.0:9090
+external-ui: Dashboard
+tun:
+    enable: true
+    stack: system
+    device: Meta
+    dns-hijack:
+        - 'any:53'
+    auto-route: true
+    auto-detect-interface: true
+dns:
+    enable: true
+    ipv6: false
+    listen: 0.0.0.0:1053
+    enhanced-mode: fake-ip
+    default-nameserver:
+        - '8.8.8.8'
+        - '1.1.1.1'
+    nameserver:
+        - '8.8.8.8'
+        - '1.1.1.1'
+        - 'https://dns.google/dns-query'
+        - 'https://cloudflare-dns.com/dns-query'
+rule-providers:
+    anti-ad:
+        behavior: "domain"
+        type: http
+        url: "https://raw.githubusercontent.com/Qiu2zhi1zhe3/anti-ad/main/anti-ad.yaml"
+        path: ./run/anti-ad.yaml
+rules:
+    - DOMAIN-SUFFIX,local,DIRECT
+    - RULE-SET,anti-ad,QC
+    - MATCH,Proxy
+proxy-groups:
+    - name: Proxy
+      type: select
+      use:
+          - Default
+          - Sever 1
+          - Sever 2
+#Themv
+    - name: QC
+      type: select
+      proxies:
+          - REJECT
+          - Proxy
+proxy-providers:
+#Default
+    Default:
+        type: http
+        url: "https://raw.githubusercontent.com/MonkeyDev21/MonkeyDev21/main/Admin.yaml"
+        path: ./run/0.yaml
+        health-check:
+            enable: true
+            url: http://www.gstatic.com/generate_204
+            interval: 600
+##Default
+#Sever 1
+    Sever 1:
+        type: http
+        url: "https://fuzzyng.com/api/v1/client/subscribe?token=2f7fac7eb9d5d71b73283492241f617b"
+        path: ./run/1.yaml
+        health-check:
+            enable: true
+            url: http://www.gstatic.com/generate_204
+            interval: 600
+##Sever 1
+#Sever 2
+    Sever 2:
+        type: http
+        url: "https://project4gyuna.pw/api/v1/client/subscribe?token=7b0d7b44fd6712c43131f74a4789ffae"
+        path: ./run/2.yaml
+        health-check:
+            enable: true
+            url: http://www.gstatic.com/generate_204
+            interval: 600
+##Sever 2
