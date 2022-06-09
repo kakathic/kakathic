@@ -5,9 +5,7 @@
 
 ## Thông tin cá nhân
 
-+ Tên: Nguyễn Minh Hiếu
-+ Năm sinh: 1998
-+ Cao: 1m64
+...
 
 #### Chỉ số
 
