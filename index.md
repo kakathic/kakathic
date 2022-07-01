@@ -4,4 +4,6 @@ Toàn bộ lịch sử cuộc đời, chứ đựng những khóa khứ và tư�
 
 ### Nội dung
 
+Nhật Ký 1: [Lừa dối ánh trăng](/Notes.Love.md)
+
 ....
