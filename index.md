@@ -1,9 +1,9 @@
 ## Nhật ký
 
-Toàn bộ lịch sử cuộc đời, chứ đựng những khóa khứ và tương lai, nó có thể là thật cũng có thể là giả dối.
+Mỗi nhật ký sẽ được mã hóa riêng, càng quan trọng mã hóa càng cao.
 
 ### Nội dung
 
-Nhật Ký 1: [Lừa dối ánh trăng](/Notes.Love.md)
+Nhật ký 1: [Lừa dối ánh trăng](/Notes.Love.md)
 
 ....
