@@ -1,4 +1,4 @@
-Đây là mã hóa base64 sao chép toàn bộ nội dung bên dưới và dán vào trang web có công cụ giải mã base64 để đọc được dòng chữ này.
+[Decoding base64](https://amp.base64decode.org/)
 
 S2jDtG5nIGJp4bq/dCBi4bqhbiBz4bq9IGzDoG0gZ8OsIG7hur91IHLGoWkgdsOgbyB0w6xuaCBo
 deG7kW5nIG7DoHkuCgpLaGkgdMO0aSAyNCB0deG7lWkgdMO0aSDEkcaw4bujYyBy4bqldCBuaGnh
