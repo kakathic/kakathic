@@ -1,4 +1,4 @@
-Nội dung 1:
+Bản nháp 1:
 
 S2jDtG5nIGJp4bq/dCBi4bqhbiBz4bq9IGzDoG0gZ8OsIG7hur91IHLGoWkgdsOgbyB0w6xuaCBo
 deG7kW5nIG7DoHkuCgpLaGkgdMO0aSAyNCB0deG7lWkgdMO0aSDEkcaw4bujYyBy4bqldCBuaGnh
@@ -135,7 +135,7 @@ w6MgbMOgIDNoMjQgc8OhbmcgaG/DoG4gdGjDoG5oIG5o4bqtdCBrw70uCgpDaMO6YyBlbSBjw7Mg
 bmjhu69uZyBnaeG6pWMgbcahIMSR4bq5cCBjw7JuIHTDtGkgc+G6vSBsdcO0biBtxqEgduG7gSBl
 bS4KCg==
 
-Nội dung 2:
+Bản nháp 2:
 
 QW5oIGjhu49pIGVtIGPDonUgbsOgeSBuaGEuCgpTYW8gZW0gbOG6oWkgZMOgbmggcXXDoSBuaGnh
 u4F1IHTDrG5oIGPhuqNtIGNobyBhbmggduG6rXkKCkVtIGPDsyB04burbmcgbmdoxKkgbGnhu4d1
