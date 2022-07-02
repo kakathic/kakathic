@@ -8,7 +8,7 @@ Nhật ký 1: [Lừa dối ánh trăng](/Notes.Love.md)
 
 Nhật Ký 2: [Tình yêu 1%](/1.md)
 
-Nhật Ký 3: Gặp gỡ định mệnh
+Nhật Ký 3: Sợi chỉ đỏ
 
 Nhật Ký 4: Trưởng thành trong nước mắt
 
