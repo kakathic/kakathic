@@ -1,4 +1,4 @@
-[Decoding base64](https://amp.base64decode.org/)
+[Decoding base64](https://www.google.com/search?q=base64+decode)
 
 S2jDtG5nIGJp4bq/dCBi4bqhbiBz4bq9IGzDoG0gZ8OsIG7hur91IHLGoWkgdsOgbyB0w6xuaCBo
 deG7kW5nIG7DoHkuCgpLaGkgdMO0aSAyNCB0deG7lWkgdMO0aSDEkcaw4bujYyBy4bqldCBuaGnh
