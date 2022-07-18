@@ -4,9 +4,9 @@ Mỗi nhật ký sẽ được mã hóa riêng, càng quan trọng mã hóa càn
 
 ### Nội dung
 
-Nhật ký 1: [Lừa dối ánh trăng](/Notes.Love.md)
+Nhật ký 1: Lừa dối ánh trăng
 
-Nhật Ký 2: [Tình yêu 1%](/1.md)
+Nhật Ký 2: Tình yêu 1%
 
 Nhật Ký 3: Sợi chỉ đỏ
 
