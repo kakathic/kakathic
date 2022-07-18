@@ -1,11 +1,11 @@
 ## Nhật ký
 
-Nhật ký 1: Lừa dối ánh trăng
+Note 1: Lừa dối ánh trăng
 
-Nhật Ký 2: Tình yêu 1%
+Note 2: Tình yêu 1%
 
-Nhật Ký 3: Sợi chỉ đỏ
+Note 3: Sợi chỉ đỏ
 
-Nhật Ký 4: Trưởng thành trong nước mắt
+Note 4: Trưởng thành trong nước mắt
 
 ....
