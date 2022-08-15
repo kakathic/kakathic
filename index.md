@@ -18,7 +18,7 @@ Mình là: Hiếu
 
 ---
 
-**2. Ưu điểm: Là cả một bầu trời vì mình cung **Thiên Bình** mà ♎**
+**2. Ưu điểm: Là cả một bầu trời vì mình cung `Thiên Bình` mà ♎**
 
 + Mình là một người hướng nội lên khá là ít đi đây đó 😅
 
