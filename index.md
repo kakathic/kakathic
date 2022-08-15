@@ -4,7 +4,7 @@ Chúc bạn một ngày vui vẻ, và tràn đầy năng lượng để dập ta
 
 Mình là: Hiếu
 
-BiO: Là một người khá khác người 😅
+Bio: Là một người khá khác người 😅
 ----
 - Mọi người thường khen mình là một người nói thật siêu thật
 
