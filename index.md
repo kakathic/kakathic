@@ -64,7 +64,7 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 > Lụy tình: Ui cảm giác này đau thật sự, mình được trải nghiệm khá nhiều loại đau thương nhưng nỗi đau này cả đời không quên mất, cái cảm giác toàn thân giun giun như kiểu sắp hết sức sống ý đáng sợ luôn, lại còn cứ nằm trên giường là nước mắt tự rơi 😭, mình cảm thấy đây là nỗi đau nhất mình từng gặp.
 , 
 + **Muốn gặp người đi cùng mình tới cuối con đường**
-> Mong rằng gặp được người giám đồng ý câu tỏ tình dạo của mình, mình nói câu đó cũng là lúc mình sợ rời xa họ, nên câu tỏ tình đó thường như một câu nói 50/50 nhưng nếu họ đồng ý thì sẽ là 100% trân Thành của mình và khi đó họ sẽ được gặp chính con người thật sự của mình.
+> Mong rằng gặp được người giám đồng ý câu tỏ tình dạo của mình, mình nói câu đó cũng là lúc mình sợ rời xa họ, nên câu tỏ tình đó thường như một câu nói 50/50 nhưng nếu họ đồng ý thì sẽ là 100% Thành Ý của mình và khi đó họ sẽ được gặp chính con người thật sự của mình.
 
 
 
