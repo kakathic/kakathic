@@ -69,6 +69,9 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 + **Muốn gặp người đi cùng mình tới cuối con đường**
 > Mong rằng gặp được người giám đồng ý câu tỏ tình dạo của mình, mình nói câu đó cũng là lúc mình sợ rời xa họ, nên câu tỏ tình đó thường như một câu nói 50/50 nhưng nếu họ đồng ý thì sẽ là 100% Thành Ý của mình và khi đó họ sẽ được gặp chính con người thật sự của mình.
 
++ **Muốn được học hỏi mọi thứ**
+> Mình rất thích tìm hiểu mọi thứ cái gì mình cũng có thể làm được, chỉ cần trong đầu không ghét nó thì mọi thứ đều có thể, mình muốn biết tất cả mọi thứ xung quanh, cả đời học học học 🤣🤣
+
 **Trên đây chỉ là chém gió lên bạn đừng tin nha 🤣🤣**
 
 🎊 **Hết rùi** 🎊
