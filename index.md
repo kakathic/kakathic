@@ -72,7 +72,7 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 + **Muốn được học hỏi mọi thứ**
 > Mình rất thích tìm hiểu mọi thứ cái gì mình cũng có thể làm được, chỉ cần trong đầu không ghét nó thì mọi thứ đều có thể, mình muốn biết tất cả mọi thứ xung quanh, cả đời học học học !!!
 
-**Trên đây chỉ là chém gió lên bạn đừng tin nha 🤣🤣**
+**Trên đây chỉ là chém gió lên bạn đừng tin nha 🤣**
 
 🎊 **Hết rùi** 🎊
 ----
