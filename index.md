@@ -82,7 +82,7 @@ Mình là: Hiếu
 
 ---
 
-**5. Trên đây chỉ là chém gió lên bạn đừng tin nha 🤣**
+**Trên đây chỉ là chém gió lên bạn đừng tin nha 🤣**
 
 🎊 **Hết rùi pipi** 🎊
 
