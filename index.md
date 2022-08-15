@@ -61,7 +61,7 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 > Đã gặp được cảm giác khoai môn hết tả nổi, lúc xa nhau cũng mất ngủ mấy ngày 😔
 
 + ~~Muốn gặp được người thương mình thật lòng~~
-> Họ yêu mình quá nhiều nhưng lại không nói ra, họ không chịu chia sẻ tình yêu của họ, bạn biết đấy trong tình yêu nếu không cân bằng thì dễ toang lắm, họ iu mình quá nhiều nhưng mình lại không có gì để đền đáp lại tình yêu của họ.
+> Họ yêu mình quá nhiều nhưng lại không nói ra, họ không chịu chia sẻ tình yêu của họ, bạn biết đấy trong tình yêu nếu không cân bằng thì dễ toang lắm, họ iu mình quá nhiều nhưng mình lại không có gì để đền đáp lại tình yêu của họ, với lại mình lại không muốn họ chịu khổ cùng mình lên mình không chủ động 😔, phận làm trai đúng kiểu mệt lắm 
 
 + ~~Nỗi đau của người bất tử~~
 > Lụy tình: Ui cảm giác này đau thật sự, mình được trải nghiệm khá nhiều loại đau thương nhưng nỗi đau này cả đời không quên mất, cái cảm giác toàn thân giun giun như kiểu sắp hết sức sống ý đáng sợ luôn, lại còn cứ nằm trên giường là nước mắt tự rơi 😭, mình cảm thấy đây là nỗi đau nhất mình từng gặp.
