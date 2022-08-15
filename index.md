@@ -12,7 +12,7 @@ BiO: Là một người khá khác người 😅
 
 - Thực ra thì đối với mình nói thật 100% rất khó vì 1 khi đã là sự thật thì sẽ không bao giờ có thể thay đổi được sự thật đó
 
-- Thế nên mình thường sử dụng lời nói thật 100% cho tỏ tình 🥰.
+- Thế nên mình thường sử dụng lời nói thật 100% cho tỏ tình 🥰
 
 Ưu điểm: Là cả một bầu trời vì mình cung **Thiên Bình** mà ♎
 ----
