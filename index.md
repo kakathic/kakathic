@@ -50,6 +50,8 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 
 - Khá vô tâm 🤐
 
+- Viết sai trính tả 😭
+
 Điều ước: Ước gì mình thực hiện được mọi mong muốn 😁
 ----
 + ~~Giúp người khác có được tình yêu~~
