@@ -26,7 +26,7 @@ BiO: Là một người khá khác người 😅
 
   + Trong quá khứ mình từng thử điếu cày hồi còn đi học do lúc đó quá thơ ngây
   
-  + Kết quả hôm đi học đó ai cũng biết hút thuốc lên lớn lên mình bị tâm lý thế là không giám hút loại thuốc nào luôn 😁.
+  + Kết quả hôm đi học đó ai cũng biết hút thuốc lên lớn lên mình bị tâm lý thế là không giám hút loại thuốc nào luôn 😁
 
 + Khá là tâm lý lúc để ý còn lại thì không nhìn thấy 😅
 
@@ -53,6 +53,7 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 Điều ước: Ước gì mình thực hiện được mọi mong muốn 😁
 ----
 + ~~Giúp người khác có được tình yêu~~
+> Giúp người cần lý do sao
 
 + ~~Muốn gặp được người vừa yêu mình vừa ghét mình~~
 > Đã gặp được cảm giác khoai môn hết tả nổi, lúc xa nhau cũng mất ngủ mấy ngày 😔
