@@ -4,8 +4,8 @@ Chúc bạn một ngày vui vẻ, và tràn đầy năng lượng để dập ta
 
 Mình là: Hiếu
 
-Bio: Là một người khá khác người 😅
-----
+**Bio: Là một người khá khác người 😅**
+
 - Mọi người thường khen mình là một người nói thật siêu thật
 
 - Nhưng họ đâu biết rằng sự thật đó trong mình chỉ đúng 50% thui
@@ -14,8 +14,8 @@ Bio: Là một người khá khác người 😅
 
 - Thế nên mình thường sử dụng lời nói thật 100% cho tỏ tình 🥰
 
-Ưu điểm: Là cả một bầu trời vì mình cung **Thiên Bình** mà ♎
-----
+**Ưu điểm: Là cả một bầu trời vì mình cung **Thiên Bình** mà ♎**
+
 + Mình là một người hướng nội lên khá là ít đi đây đó 😅
 
 + Khá là tốt bụng mình thường hay giúp người khác
@@ -38,8 +38,8 @@ Bio: Là một người khá khác người 😅
 
 + Bên ngoài ngây thơ bên trong khá già 🤔
 
-Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
-----
+**Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘**
+
 - Hay để ý người khác, đôi khi nhìn thấy những thứ không nên thấy
 
 - Có một đôi mắt 10/💯 vì quá tinh tường lên mất đi hồn nhiên của tuổi trẻ nên trong đôi mắt có khá nhiều nỗi buồn ẩn giấu.
@@ -52,8 +52,8 @@ Nhược điểm: Mình không thíc chê bản thân mình đâu 🆘
 
 - Viết sai trính tả 😭
 
-Điều ước: Ước gì mình thực hiện được mọi mong muốn 😁
-----
+**Điều ước: Ước gì mình thực hiện được mọi mong muốn 😁**
+
 + ~~Giúp người khác có được tình yêu~~
 > Giúp người cần lý do sao
 
