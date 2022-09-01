@@ -1,15 +1,9 @@
 **Hi, how are you? 👋**
 ---
 
-> I am Hieu
+> **I am Hieu**
 
-- I belong to the zodiac sign Libra 
-
-- I don't know English
-
-- But I like speak English, so this article will be written in English 
-
-**Cảm ơn bạn đã ghé thăm**
+- Cảm ơn bạn đã ghé thăm
 
 **Vu Vơ**
 ---
@@ -26,6 +20,5 @@
 
 - Hay hơn nè
 
-> 
 
-> 
+
