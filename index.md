@@ -3,7 +3,7 @@
 
 > **I am Hieu**
 
-- Cảm ơn bạn đã ghé thăm
+> Cảm ơn bạn đã ghé thăm
 
 
 
