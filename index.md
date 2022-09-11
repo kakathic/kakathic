@@ -5,6 +5,6 @@
 
 > Cảm ơn bạn đã ghé thăm
 
-- Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
+Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
 
 
