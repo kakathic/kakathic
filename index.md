@@ -1,11 +1,11 @@
 **Hi, how are you? 👋**
 ---
 
-> **I am Hieu**
++ **I am Hieu**
 
-> Cảm ơn bạn đã ghé thăm
++ Cảm ơn bạn đã ghé thăm
 
-Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
+> Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
 
   - Ánh mắt long lanh
   
@@ -13,7 +13,7 @@ Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
 
   - Giọt sương ban mai
 
-Thao túng bằng ý trí, yêu em bằng lý trí
+> Thao túng bằng ý trí, yêu em bằng lý trí
 
   - Thao túng vạn vật
 
@@ -22,4 +22,3 @@ Thao túng bằng ý trí, yêu em bằng lý trí
   - Em thì không được
 
 
-  
