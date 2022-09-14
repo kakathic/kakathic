@@ -7,4 +7,17 @@
 
 Hạ buồn vì mấy gió, iu em bằng 1 ánh nhìn đó.
 
+  - Ánh mắt long lanh
+  
+  - Tựa giọt sương mai
 
+Thao túng bằng ý trí, yêu em bằng lý trí
+
+  - Thao túng vạn vật
+
+      + Còn
+
+  - Em thì không được
+
+
+  
