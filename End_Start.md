@@ -12,11 +12,11 @@
 
 ## 💐 Tặng hoa nè
 
-+ 💐 1 bó tượng trưng cho `Sắc Đẹp`
++ 💐 1 bó cho `Sắc Đẹp`
 
-+ 🌹 1 bông tượng trưng cho `Tình Yêu`
++ 🌹 1 bông cho `Tình Yêu`
 
-+ 🌷 1 nụ tượng trưng cho ``
++ 🌷 1 nụ cho ``
 
 
 
