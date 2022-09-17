@@ -28,18 +28,8 @@
 
 > Tuy rằng quen Em thời gian không nhiều nhưng anh lại phát hiện vài vấn đề
 
-+ Em biết Triều Tiên chứ anh thấy Em giống như vậy
+- Có phải trong quá khứ của em có vài vấn đề về tình cảm đúng không, mà tình cảm đặc biệt
 
-+ Không biết trong quá khứ của Em đã gặp phải truyện gì nhưng anh cảm nhận rằng trong quá khứ của Em đã có vấn đề về tình cảm lên Em mới tự khép mình lại.
+> Nói cho Em 1 bí mật về anh cứ mỗi khi anh nói yêu ai y rằng anh sẽ biết được bí mật của người đó, của Em thì anh không chắc chắn thui vì thời gian ở gần nhau ngắn ngủi quá mức.
 
-> Nói chung để nói chuyện với Em khó hơn lên trời, 
-
-- Anh không có cơ hội ở gần bên Em nhiều lên anh cũng chỉ đoán thế thui nếu không phải cứ coi như anh xàm tý thui hehe.
-
-> Nhưng có 1 điều anh rất chắc chắn và anh cũng mong rằng Em thay đổi, thay đổi không phải vì anh mà vì Em vì chính bản thân mình, Em có thể cởi mở bản thân mình với mọi người được không, Em có thể giấu nhưng không thể qua mắt được đôi mắt của anh đâu đôi mắt của anh có thể nhìn thấu mọi thứ trên thế gian này àiiii.
-
-- Em biết đó như Triều Tiên họ đóng cửa không giao lưu với bên ngoài thành gia họ thiếu thốn rất nhiều thứ.
-
-> Anh không muốn nhìn thấy Em khổ đâu 
-
-
+- 
