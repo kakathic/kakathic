@@ -39,7 +39,9 @@ Nói thật giờ anh đã biết toàn bộ tính cách của em rùi, liệu e
 
 Có một vấn đề mà giờ anh cũng không biết giải quyết sao, về vụ cái nhẫn á, đó không phải là lý do đâu lý do anh không thích em vì em không chịu nói truyện với anh thui, em toàn nói chuyện có chọn lọc với anh khiến anh không thích thui 
 
-Đó không phải là lý do nhưng lại khiến em đau lòng là vì 1 tính cách của anh bị dị ứng với 1 số tính cách anh chỉ không ngờ em lại có mấy cái tính cách đó thui 
+Đó không phải là lý do nhưng lại khiến em đau lòng là vì 1 tính cách rất đáng sợ của anh bị dị ứng với 1 số tính cách của em, anh chỉ không ngờ em lại có mấy cái tính cách đó thui 
+
+<details>
 
 Anh tự đặt tên cho tính cách này là sát thủ dưới anh trăng
 
@@ -66,6 +68,10 @@ Anh hiện tại có 4 tính cách
 > Tính cách này dự kiến sẽ được tạo ra khi anh cưới
 
 Các tính cách khác anh chưa nghĩ đến
+
+</details>
+
+Nhiều khi anh không kiểm soát bản thân rùi lại làm hại em, em có thể mắng chửi anh thế nào cũng được, miễn em cảm thấy nhẹ lòng.
 
 
 
