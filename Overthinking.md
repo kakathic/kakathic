@@ -43,6 +43,7 @@ Có một vấn đề mà giờ anh cũng không biết giải quyết sao, về
 
 <details>
 
+
 Anh tự đặt tên cho tính cách này là sát thủ dưới anh trăng
 
 Tính cách này sẽ làm tổn thương tới người đang đứng trên đỉnh cao, anh không giám nói toàn bộ nghe có chút ảo diệu
