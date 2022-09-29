@@ -17,11 +17,13 @@ Mong rằng bài viết này sẽ không lấy đi nước mắt của ai đó
 **Content**
 ---
 
-Trước khi vào vấn đề chính, thì bài viết cũ có nội dung là lời nói yêu thương, nhưng nếu hiểu sai thì sẽ là lời tạm biệt.
+Trước khi vào vấn đề chính, thì bài viết cũ có lẽ Em đã hiểu sai ý nghĩa rùi, giờ anh cũng không biết giải thích ra sao.
 
 > Khởi đầu
 
-Có một sự thật là anh k hiểu gì về Em cả nếu như anh hiểu em thì chắc chắn giờ Em đã không phải đau như giờ.
+Khi mới quen nhau anh để ý em trả lời tin nhắn khá là chọn lọc, mà anh lại hay hỏi linh tinh, đó là lý do ban đầu anh không thích Em.
+
+
 
 
 
